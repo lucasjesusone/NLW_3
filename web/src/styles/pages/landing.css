@@ -23,6 +23,7 @@
     justify-content: space-between;
   
     background: url('../../images/Ilustra02.svg') no-repeat 80% center;
+    background-size: 490px;
   }
   
   #page-landing .content-wrapper main {
